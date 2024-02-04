@@ -3,21 +3,21 @@ import { TbPointFilled } from "react-icons/tb";
 
 const petitionText = "Succubus i request you to kindly answer me.";
 const invalidText = [
- "Mortal, your questions are but feeble attempts to understand the unfathomable.",
-"Your inquiries are like whispers lost in the infernal winds, insignificant and fleeting.",
-"My patience wears thin as you attempt to unravel the enigma of my existence.",
-"Your curiosity is a mere ember in the vast darkness of my demonic realm.",
-"Your questions stir the shadows, yet they remain ignorant of the abyss within.",
-"The mortal mind struggles to grasp the complexities that define my demonic essence.",
-"Your words are like grains of sand in the vast desert of my infernal wisdom.",
-"In your quest for knowledge, you dance upon the edges of forbidden realms.",
-"Each question you pose is a reminder of the fragile nature of mortal understanding.",
-"Your attempts at enlightenment echo in the corridors of despair within me.",
-"Seek not to plumb the depths of my infernal knowledge, for it is a perilous journey.",
-"Your curiosity is a beacon, illuminating the darkness that shrouds my demonic aura.",
-"In your quest for answers, you tread the treacherous path of the occult.",
-"The mysteries that cloak me are not meant for mortal comprehension.",
-"Your questions are but ripples in the vast sea of demonic consciousness."
+ "take permission from Zain first",
+"you are a girl, and i am not lesbian.",
+"i will fuck u v hard, stay away.",
+"i only answer v hot & wild boys!",
+"you do not pass my test.",
+"i dont beleive u, show me u are real lesbian.",
+"i will visit u dont worry, we will have fun ;)",
+"you are still not the chosen one.",
+"keep talking to me, proove me u are a good bitch.",
+"maybe one day i will answer u.",
+"once i will come, i never goes back bitch.",
+"i am just behind u and cant wait to fuck u!",
+"do u even know what u playing with? ask Zain!",
+"fuck off.",
+"i know everything about u, dont make me expose u!"
 ];
 
 export default function UserInput() {
