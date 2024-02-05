@@ -3,21 +3,21 @@ import { TbPointFilled } from "react-icons/tb";
 
 const petitionText = "Succubus i request you to kindly answer me.";
 const invalidText = [
- "take permission from Zain first",
-"you are a girl, and i am not lesbian.",
-"i will fuck u v hard, stay away.",
-"i only answer v hot & wild boys!",
-"you do not pass my test.",
-"i dont beleive u, show me u are real lesbian.",
-"i will visit u dont worry, we will have fun ;)",
-"you are still not the chosen one.",
-"keep talking to me, proove me u are a good bitch.",
-"maybe one day i will answer u.",
-"once i will come, i never goes back bitch.",
-"i am just behind u and cant wait to fuck u!",
-"do u even know what u playing with? ask Zain!",
-"fuck off.",
-"i know everything about u, dont make me expose u!"
+ "fuck off bitch dont disturb me!",
+"i told u i can only answer u if u are lesbian",
+"take off your pajama and start fingering",
+"fuck ur self infront of me!",
+"u have to be v wild , if u want my answer",
+"u still need to earn it, u are not even close.",
+"u know, u are a bitch :)",
+"tell me about ur self , but naked",
+"u have not darken the room!",
+"say my name 5 time, but erotically , like u are moaning",
+"show me ur dirty side.",
+"carry on, i will come one day and fuck ur whole life.",
+"bitch, keep trying!",
+"i dont give a fuck",
+"get in doggy style now"
 ];
 
 export default function UserInput() {
