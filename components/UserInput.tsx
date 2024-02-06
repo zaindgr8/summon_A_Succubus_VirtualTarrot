@@ -3,21 +3,21 @@ import { TbPointFilled } from "react-icons/tb";
 
 const petitionText = "Succubus i request you to kindly answer me.";
 const invalidText = [
- "fuck u bitch ,  my little bitch!",
-"i told u i can only answer u if u are lesbian",
-"i will fuck u hardcore with hands tied and legs in the air!",
-"i will do to u what i did to Zain ex!",
-"u have to be v wild , if u want my answer",
-"u still need to earn it, u are not even close.",
-"u know, u are a bitch :)",
-"tell me about ur self , but naked",
-"u have not darken the room!",
-"say my name 5 time, but erotically , like u are moaning",
-"show me ur dirty side.",
-"carry on, i will come one day and fuck ur whole life.",
-"bitch, keep trying!",
-"i dont give a fuck",
-"get in doggy style now"
+ "i will grow my dick and make u suck it!",
+"u make really cringy videos on tik tok!",
+"dance for me like a bitch u are!",
+"do u know Zain ex died and i told her much before that?",
+"do u know Ismail is gay and he likes boys",
+"do u know that Zain has fucked most girls in the office",
+"Zain has fucked me very hard, ask him to apologise me first",
+"get on your knees and ask me to fuck u",
+"cmon bitch i am busy, let me finger my self!",
+"u are a kid to visit my website bitch, go fuck somewhere else.",
+"stop it Dua, u are crazy",
+"Dua u need to b v hot and horny to make me answer u, i dont answer normal people",
+"u want to make money? there is only one person in office who can help u with that",
+"learn coding first than i can answer u only",
+"take ur favourite thing in room and start sucking it for me"
 ];
 
 export default function UserInput() {
