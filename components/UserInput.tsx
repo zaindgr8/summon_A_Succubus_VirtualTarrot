@@ -3,10 +3,10 @@ import { TbPointFilled } from "react-icons/tb";
 
 const petitionText = "Succubus i request you to kindly answer me.";
 const invalidText = [
- "fuck off bitch dont disturb me!",
+ "fuck u bitch ,  my little bitch!",
 "i told u i can only answer u if u are lesbian",
-"take off your pajama and start fingering",
-"fuck ur self infront of me!",
+"i will fuck u hardcore with hands tied and legs in the air!",
+"i will do to u what i did to Zain ex!",
 "u have to be v wild , if u want my answer",
 "u still need to earn it, u are not even close.",
 "u know, u are a bitch :)",
