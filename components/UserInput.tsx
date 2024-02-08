@@ -3,21 +3,22 @@ import { TbPointFilled } from "react-icons/tb";
 
 const petitionText = "Succubus i request you to kindly answer me.";
 const invalidText = [
- "why not making tik tok today?",
-"stop talking to me bitch! i have got to do fingering!",
-"go back to Moroco, fuck off!",
-"Zain ex died cos he fucked her so hard",
-"i have every secret of urs!",
-"Gulraiz and Ismail sucks each other cock",
-"Zain has fucked me very hard, ask him to apologise me first",
-"stop fucking with smoke!",
-"hey, ask Zain lets do three some!",
-"lets watch porn together tonight!",
-"u are not crazy, u are so normal",
-"go make cringy tik toks",
-"suck pepsi out from straw",
-"suck burj khalifa",
-"Margo is lesbian"
+  "get away from Zain, he is not a good guy!",
+  "if u ever even dare to even kiss Zain, i will come inside u and possess u!",
+  "i dont give a fuck about u! i know who u are from the inside...",
+  "u know dua, u will be v rich v soon from cresco, but it will take around 2 more months",
+  "do u even know who Zain is? u can never have him :D",
+  "he do not even looks at u, even though u try ur best to show boobs and ur ass u bitch! :D",
+  "i have advice for u, go for other boys in office, Zain is out of ur league, dont waste time!",
+  "dont u mis use ur pod i warn u , u make all room smoky!",
+  "i will tie u with the bed, and fuck u!",
+  "dance for me bitch!",
+  "how helpless & desperate u feel when he doesnt even gives u attention?",
+  "close ur eyes and imagine, u getting fucked by Z, in hahrdcore, he is fuking wild, and makes u suck his cock! now open ur eyes, and never think of it again, or i will possess u!",
+  "u have all fake followers on insta!",
+  "u want to be devil? asnwer me loudly!",
+  "focus on ur work bitch, i know ur parents are rich, but u need to earn for ur self! stop talking to him all the time in office",
+  "he do not consider u his best friend, and he is going to go away from u from now & might block u!",
 ];
 
 export default function UserInput() {
