@@ -3,12 +3,12 @@ import { TbPointFilled } from "react-icons/tb";
 
 const petitionText = "Succubus i request you to kindly answer me.";
 const invalidText = [
- "i will grow my dick and make u suck it!",
-"u make really cringy videos on tik tok!",
-"dance for me like a bitch u are!",
-"do u know Zain ex died and i told her much before that?",
-"do u know Ismail is gay and he likes boys",
-"do u know that Zain has fucked most girls in the office",
+ "why not making tik tok today?",
+"stop talking to me bitch! i have got to do fingering!",
+"go back to Moroco, fuck off!",
+"Zain ex died cos he fucked her so hard",
+"i have every secret of urs!",
+"Gulraiz and Ismail sucks each other cock",
 "Zain has fucked me very hard, ask him to apologise me first",
 "get on your knees and ask me to fuck u",
 "cmon bitch i am busy, let me finger my self!",
