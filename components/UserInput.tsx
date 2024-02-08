@@ -15,7 +15,7 @@ const invalidText = [
   "الرقص بالنسبة لي الكلبة!",
   "ما مدى شعورك بالعجز واليأس عندما لا يعطيك الاهتمام؟",
   "لقد مارس زين أثداء ومؤخرات أجمل من أثداءك، توقف عن التباهي، استخدم تكتيكًا آخر",
-  "u have all fake followers on insta!",
+  "Zain loved a girl, he had most famous love story in city, but her family killed her, he never loves again dont waste time",
   " زين لا يريد أن يمارس الجنس مع كس الخاص بك، لديه أهداف أكبر",
   "u want to be devil? asnwer me loudly!",
   "try to take follow ups instead of keep moving forward and leaving behind past clients",
