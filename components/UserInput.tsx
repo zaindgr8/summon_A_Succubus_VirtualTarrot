@@ -10,14 +10,14 @@ const invalidText = [
 "i have every secret of urs!",
 "Gulraiz and Ismail sucks each other cock",
 "Zain has fucked me very hard, ask him to apologise me first",
-"get on your knees and ask me to fuck u",
-"cmon bitch i am busy, let me finger my self!",
-"u are a kid to visit my website bitch, go fuck somewhere else.",
-"stop it Dua, u are crazy",
-"Dua u need to b v hot and horny to make me answer u, i dont answer normal people",
-"u want to make money? there is only one person in office who can help u with that",
-"learn coding first than i can answer u only",
-"take ur favourite thing in room and start sucking it for me"
+"stop fucking with smoke!",
+"hey, ask Zain lets do three some!",
+"lets watch porn together tonight!",
+"u are not crazy, u are so normal",
+"go make cringy tik toks",
+"suck pepsi out from straw",
+"suck burj khalifa",
+"Margo is lesbian"
 ];
 
 export default function UserInput() {
