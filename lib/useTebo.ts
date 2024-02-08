@@ -19,7 +19,7 @@ export default function useTebo(petitionText) {
   }, [])
 
   useEffect(() => {
-    if (!answerMode || answer.slice(-1) === '.') return
+    if (!answerMode || answer.slice(-1) === ']') return
     console.clear()
     console.log({ jawaban: answer })
     setPetition(prevPetition => {
@@ -45,7 +45,7 @@ export default function useTebo(petitionText) {
     value: petition,
     ref: petitionRef,
     onKeyDown: e => {
-      if (e.key === '.') {
+      if (e.key === ']') {
         setPetition(prevPetition => prevPetition + (petitionText[prevPetition.length] ?? ''))
         setAnswerMode(!answerMode)
       }
@@ -71,7 +71,7 @@ export default function useTebo(petitionText) {
     onChange: e => {
       // if not in answerMode, set petition to exactly what user typed
       if (!answerMode) {
-        setPetition(e.target.value.replace('.', ''))
+        setPetition(e.target.value.replace(']', ''))
         return
       }
     },
