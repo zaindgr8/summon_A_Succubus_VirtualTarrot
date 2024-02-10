@@ -25,9 +25,13 @@ const petitionText = "Succubus i request you to kindly answer me.";
 //   "he do not consider u his best friend, and he is going to go away from u from now & might block u!",
 // ];
 
-const invalidText = [
-  "hello, this is succubus fucker here, she is busy sucking my cock, come back later!",
-];
+const invalidText = ["let's fuck!", "play the song kejilar, lets do vibing!",
+"what would u do to me if i were there?", "white color looks sexy on u", "fuck off bitch",
+"ask Zain to talk to me please, dont tell him i asked u", "lets do fingering together someday?",
+"congratulations on new chairs", "why u want me to talk to u?", "get on the table and dance for me!",
+"u have now only got 1 burn on the arm, want more?", "let's go live together someday on tiktok",
+"i dont chat but only do sexting", "want to lose virginity?", "i dont tell one conversation to another, dont worry about that",
+"stop talking to me,get on work bitch", "i think u want to get fucked, but u have to be true lesbian for it!"];
 
 export default function UserInput() {
   const { answer, showAnswer, props, formRef, reset } = useTebo(petitionText)
