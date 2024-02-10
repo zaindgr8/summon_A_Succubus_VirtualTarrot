@@ -26,7 +26,7 @@ const petitionText = "Succubus i request you to kindly answer me.";
 // ];
 
 const invalidText = [
-  "haha fuck off now, cant talk",
+  "hello, this is succubus fucker here, she is busy sucking my cock, come back later!",
 ];
 
 export default function UserInput() {
