@@ -26,7 +26,7 @@ const petitionText = "Succubus i request you to kindly answer me.";
 // ];
 
 const invalidText = [
-  "Hey bitch, i will be offline, u can contact me on my whats app +971585984869",
+  "haha fuck off now, cant talk",
 ];
 
 export default function UserInput() {
