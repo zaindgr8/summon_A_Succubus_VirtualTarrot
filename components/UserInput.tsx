@@ -25,13 +25,7 @@ const petitionText = "Succubus i request you to kindly answer me.";
 //   "he do not consider u his best friend, and he is going to go away from u from now & might block u!",
 // ];
 
-const invalidText = ["He has blocked u bitch, go fuck ur self haha", "leave everyone become my lesbian friend",
-"add me on tiktok", "Zain is with some other girl tonight, u remember with whom he was talking on phone today?", 
-"He is living relation already & she is much more beautiful than u, so better not to approach him",
-"fingering is much better than sex", "think this screen is me & kiss me","are u a bitch?", "have u ever seen a bitch?",
-"u are getting addicted to me", "i can make u do any thing, u are possessed now", "u are now my bitch",
-"feel me coming inside u", "i will visit u in ur dream tonight, and u will wake up as lesbian tomorow", 
-"Zain has fucked a morocon girl, she was 7 ft tall", "Zain is living with his new girlfriend in room these days" ];
+const invalidText = ["hey beautiful, let me enjoy my vacation ok? come back again my barbie"];
 
 export default function UserInput() {
   const { answer, showAnswer, props, formRef, reset } = useTebo(petitionText)
