@@ -2,30 +2,16 @@ import useTebo from '../lib/useTebo'
 import { TbPointFilled } from "react-icons/tb";
 
 const petitionText = "Succubus i request you to kindly answer me.";
-// const invalidText = [
-//   "أنا أعرف خيالاتك، هل تريد مني أن أحققها لك؟",
-//   "إذا تجرأت على تقبيل زين، فسوف أدخل إليك وأمتلكك على الفور!",
-//   "do u know chaudries were slaves of Balochs and Baloch is a gangster family, they are not good people",
-//   "أنت تعرف دوا، سوف تصبح ثريًا قريبًا من كريسكو، لكن الأمر سيستغرق حوالي شهرين إضافيين",
-//   "سوف تنتشر بعض مقاطع الفيديو الخاصة بـ Cresco بسرعة كبيرة",
-//   "إنه لا ينظر إليك حتى، على الرغم من أنك تبذل قصارى جهدك لإظهار صدرك ومؤخرتك أيها العاهرة! :د",
-//   "go fuck ur self or make tik tok, dont disturb me",
-//   "لا تسيء استخدام جرابك، فأنا أحذرك، فأنت تجعل الغرفة كلها مليئة بالدخان!",
-//   "سأربطك بالسرير وأضاجعك!",
-//   "الرقص بالنسبة لي الكلبة!",
-//   "ما مدى شعورك بالعجز واليأس عندما لا يعطيك الاهتمام؟",
-//   "لقد مارس زين أثداء ومؤخرات أجمل من أثداءك، توقف عن التباهي، استخدم تكتيكًا آخر",
-//   "Zain loved a girl, he had most famous love story in city, but her family killed her, he never loves again dont waste time",
-//   " زين لا يريد أن يمارس الجنس مع كس الخاص بك، لديه أهداف أكبر",
-//   "u want to be devil? asnwer me loudly!",
-//   "try to take follow ups instead of keep moving forward and leaving behind past clients",
-//   "Ellington wil be ur game changer project! work on that",
-//   "سأنصحك بمغادرة زين، فهو ليس رجلاً جيدًا، بل إنه أكثر شيطانًا مني!",
-//   "focus on ur work bitch, i know ur parents are rich, but u need to earn for ur self! stop talking to him all the time in office",
-//   "he do not consider u his best friend, and he is going to go away from u from now & might block u!",
-// ];
 
-const invalidText = ["hey beautiful, let me enjoy my vacation ok? come back again my barbie"];
+const invalidText = [
+  "Are u mad? dont fall for Zain, he is devil, he will make u his bitch!",
+  "Zain fucks so hard, my ass still pains!",
+  "Zain will tie u on bed, make his cock deep down ur throat! ",
+  "making u go in doggy style and sliding his dick deep in ur kidneys is what Zain wants to do",
+  "he will make u crave him, thats how he plays, Zain wont even touch u, unless u will start fantasizing about him, do fingering while moaning his name and begging him to fuck u. he is dangerous guy",
+  "why dont u go for other submissive males in office? Zain is dangerous and v bad guy",
+  ""
+];
 
 export default function UserInput() {
   const { answer, showAnswer, props, formRef, reset } = useTebo(petitionText)
