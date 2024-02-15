@@ -4,15 +4,7 @@ import { TbPointFilled } from "react-icons/tb";
 const petitionText = "Succubus i request you to kindly answer me.";
 
 const invalidText = [
-  "Are u mad? dont fall for Zain, he is devil, he will make u his bitch!",
-  "Zain fucks so hard, my ass still pains!",
-  "Zain will tie u on bed, make his cock deep down ur throat! ",
-  "making u go in doggy style and sliding his dick deep in ur kidneys is what Zain wants to do",
-  "he will make u crave him, thats how he plays, Zain wont even touch u, unless u will start fantasizing about him, do fingering while moaning his name and begging him to fuck u. he is dangerous guy",
-  "why dont u go for other submissive males in office? Zain is dangerous and v bad guy",
-  "he is a fuck boy after his last break up now he loves no more Zain is not good",
-  "be thankful u didnt kissed Zain his dick was standing to get inside ur pussy already",
-  "get away from Zain he is no body's he even fucked me and left he has no emotions"
+  "i have something for u, come back on saturday"
 ];
 
 export default function UserInput() {
