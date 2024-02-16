@@ -4,7 +4,11 @@ import { TbPointFilled } from "react-icons/tb";
 const petitionText = "Succubus i request you to kindly answer me.";
 
 const invalidText = [
-  "dua i told u on saturday, dont be a bitch asking me now! but happy birthday by the way"
+  "Zain has biggest dick in office and can fuck for 6 continous hours", "Happy Birthday to you",
+  "i am not in mood of answering today", "why u always bother me get on work bitch", 
+  "u need to work and make money first", "u will get fucked by Zain very soon", "Zain is a hard nut to crack u will never be able to seduce him",
+  "write down your goals on piece of paper and read them every day","your third eye is needed to be opened",
+  "u can be the chosen one"
 ];
 
 export default function UserInput() {
