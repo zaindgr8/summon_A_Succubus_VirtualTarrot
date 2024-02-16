@@ -8,7 +8,8 @@ const invalidText = [
   "i am not in mood of answering today", "why u always bother me get on work bitch", 
   "u need to work and make money first", "u will get fucked by Zain very soon", "Zain is a hard nut to crack u will never be able to seduce him",
   "write down your goals on piece of paper and read them every day","your third eye is needed to be opened",
-  "u can be the chosen one"
+  "u can be the chosen one", "u should go for shameer he is easy option Zain is out of your league",
+  
 ];
 
 export default function UserInput() {
