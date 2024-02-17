@@ -4,7 +4,10 @@ import { TbPointFilled } from "react-icons/tb";
 const petitionText = "Succubus i request you to kindly answer me.";
 
 const invalidText = [
-  "",
+  "Zain has the biggest dick in the office and can fuck for 6 hours","Zain is out of ur league stop chasing him", 
+  "their are so many other boys ready to patch up leave Zain for me bitch",
+  "get on table and dance naked", "u really want me to answer u?", "ur deal will close in march",
+  "lets start fingering together", "when Zain hears ur name his mind goes blank because it was her ex name as well and he didnt do well with her"
   
 ];
 
