@@ -4,11 +4,7 @@ import { TbPointFilled } from "react-icons/tb";
 const petitionText = "Succubus i request you to kindly answer me.";
 
 const invalidText = [
-  "You did well bitch Zain was out of your league over all", "sometimes its good to settle for less, u can make ur choice worth it after time",
-  "lets do fingering", "i want you to suck my boobs","dance for me bitch", "please ask Zain to talk to me",
-  "Ay wah, even i was never able to understand him", "can u take ur finger in ur ass?",
-  "can u take up till ur kidneys?", "u have potential for real estate", "i will tie u with bed and fuck u", "i know ur reality",
-  "i will visit u tonight"
+  ""
 ];
 
 export default function UserInput() {
