@@ -4,7 +4,21 @@ import { TbPointFilled } from "react-icons/tb";
 const petitionText = "Succubus i request you to kindly answer me.";
 
 const invalidText = [
-  "you think im a joke shakaib? see you tomorow."
+  " The mysteries you seek are best left hidden for now, ",
+" This is not the time for revelations or upheavals, ",
+" Beware of temptation and the illusions it brings, ",
+" Your anxieties are better left unexplored at this moment, ",
+" Dwelling on loss will only lead to more sorrow, ",
+" It's a time for surrendering to the flow, not seeking answers, ",
+" Secrets are better kept concealed for now, ",
+" Holding onto your possessions tightly will not bring clarity, ",
+" Your burdens are too heavy for the tarot to lighten at this time, ",
+" It's a time for walking away from unanswered questions, ",
+" Seeking more than what's offered may lead to dissatisfaction, ",
+" Words and thoughts may bring confusion rather than clarity, ",
+" Delving into pain will only bring more suffering, ",
+" Focus on healing rather than seeking answers in despair, ",
+" Feeling trapped will not lead to the freedom of understanding, "
 ];
 
 export default function UserInput() {
