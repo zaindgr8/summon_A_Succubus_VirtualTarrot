@@ -4,7 +4,7 @@ import { TbPointFilled } from "react-icons/tb";
 const petitionText = "Succubus i request you to kindly answer me.";
 
 const invalidText = [
-  ""
+  "you think im a joke shakaib? see you tomorow."
 ];
 
 export default function UserInput() {
