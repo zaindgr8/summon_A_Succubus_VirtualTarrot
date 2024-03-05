@@ -22,8 +22,8 @@ const invalidText = [
   "kiss ur elbow now if u want me to answer u",
   "touch ur nose with ur tongue now, and say succubus fuck me 7 times",
   "fuck off",
-  "i will see u tonight in ur blankets",
-]
+  "i will see u tonight in ur blankets"
+];
 
 export default function UserInput() {
   const { answer, showAnswer, props, formRef, reset } = useTebo(petitionText);
