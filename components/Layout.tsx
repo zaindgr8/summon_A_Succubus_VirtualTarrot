@@ -1,6 +1,11 @@
 import Head from 'next/head'
 
-export default function Layout({ children, title }) {
+interface LayoutProps {
+  children: React.ReactNode
+  title: string
+}
+
+export default function Layout({ children, title }: LayoutProps) {
   return (
     <div className='wrapper'>
       <Head>
