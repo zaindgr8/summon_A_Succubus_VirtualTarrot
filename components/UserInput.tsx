@@ -14,7 +14,15 @@ const invalidText = [
   "i will tell u someday how to call me",
   "keep trying bitch",
   "first search who succubus actually is",
-  "who told u about me, she is fucked tonight"
+  "who told u about me, she is fucked tonight",
+  "dont u tell about me to any one else, or i will fuck u v hard",
+  "u are homosexual, u want me to tell this to everyone?",
+  "u want to know ur future? but u have to do what ever i tell u",
+  "get naked, and sing a song for me know",
+  "kiss ur elbow now if u want me to answer u",
+  "touch ur nose with ur tongue now, and say succubus fuck me 7 times",
+  "fuck off",
+  "i will see u tonight in ur blankets"
 ];
 
 export default function UserInput() {
