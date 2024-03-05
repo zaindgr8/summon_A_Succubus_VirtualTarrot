@@ -7,7 +7,14 @@ const invalidText = [
   " I Know who told u about me! she is screwed tonight",
   "do dance for me know!",
   "i am right behind u!",
-  "go fuck your self"
+  "go fuck your self",
+  "i will visit u tonight",
+  "keep trying i might answer u one day and make u my slave",
+  "i dont make friends i make slaves, u wanna be one?",
+  "i will tell u someday how to call me",
+  "keep trying bitch",
+  "first search who succubus actually is",
+  "who told u about me, she is fucked tonight"
 ];
 
 export default function UserInput() {
